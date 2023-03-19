@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>My New Hugo Site</title>
+    <link>https://samayyatra.github.io/</link>
+    <description>Recent content on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="https://samayyatra.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Bhrigu Nandi Nadi</title>
+      <link>https://samayyatra.github.io/2/</link>
+      <pubDate>Sun, 19 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://samayyatra.github.io/2/</guid>
+      <description>Table of Contents  Introduction Contact  Introduction Contact </description>
+    </item>
+    
+    <item>
+      <title>Introduction</title>
+      <link>https://samayyatra.github.io/1/</link>
+      <pubDate>Wed, 20 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://samayyatra.github.io/1/</guid>
+      <description>Table of Contents  Introduction Contact  Introduction My name is Samay Yatra. I am an astrologer. This blog is a collection of some of my learnings.
+Contact  Email: samay [DOT] yatra [AT] gmail [DOT] com  </description>
+    </item>
+    
+  </channel>
+</rss>
